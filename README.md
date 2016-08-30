@@ -5,4 +5,4 @@ Here is a list of courses/specializations I have completed on Coursera. This rep
 | ------------- |-------------| -----|
 | Functional Programming Principles in Scala     | École Polytechnique Fédérale de Lausanne | Functional Programming in Scala Specialization |
 | Functional Program Design in Scala | École Polytechnique Fédérale de Lausanne | Functional Programming in Scala Specialization |
-| Parallel programming (IN PROGRESS) | École Polytechnique Fédérale de Lausanne | Functional Programming in Scala Specialization |
+| Parallel programming | École Polytechnique Fédérale de Lausanne | Functional Programming in Scala Specialization |
